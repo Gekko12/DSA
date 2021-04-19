@@ -1,10 +1,6 @@
 /*
-  Quick sort algorithm(Best suited) 
-         having best and average case complexity of O(nlogn) 
-            and worst case complexity of O(n2)
+  Quick sort algorithm(Best suited) having best and average case complexity of O(nlogn) and worst case complexity of O(n^2)
 
-  Programmer :- Gaurav Sharma
-  Date :- 27th June 2@2@
 */
 
 #include<stdio.h>

@@ -1,6 +1,8 @@
-/*   ----------------------------------------------------------   Merge Sort  ------------------------------------------------------------------------------------------
-	 Time complexity:
-				   Best:- O(nlogn)             Worst:- O(nlogn)          ,better than QuickSort int terms of Worst case
+/*
+  Merge Sort:-
+
+  Time complexity:
+  Best:- O(nlogn)   Worst:- O(nlogn), better than QuickSort in terms of Worst case
 */
         
          
